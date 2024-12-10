@@ -1,0 +1,6 @@
+@fileSorter_HostAddress = http://localhost:5057
+
+GET {{fileSorter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
